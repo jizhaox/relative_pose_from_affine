@@ -1,6 +1,6 @@
 # README
 
-This package is an MATLAB implementation of the minimal solutions for relative pose with a single affine correspondence [1]. It includes the following solvers.
+This package is a MATLAB implementation of the minimal solutions for relative pose with a single affine correspondence [1]. It includes the following solvers.
 
 * **under planar motion assumption**
 
@@ -24,7 +24,7 @@ If you use this package in an academic work, please cite:
       title={Minimal Solutions for Relative Pose with a Single Affine Correspondence},
       author={Guan, Banglei and Zhao, Ji and Li, Zhang and Sun, Fang and Fraundorfer, Friedrich},
       booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-      pages={1--10},
+      pages={1929--1938},
       year={2020}
      }
 
