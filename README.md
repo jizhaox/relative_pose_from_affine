@@ -16,9 +16,9 @@ This package is a MATLAB implementation of the minimal solutions for relative po
 
 # Reference
 
-[1] Banglei Guan, Ji Zhao, Zhang Li, Fang Sun, and Friedrich Fraundorfer. [**Relative Pose Estimation with a Single Affine Correspondence**]. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3069806.
+[1] Banglei Guan, Ji Zhao, Zhang Li, Fang Sun, and Friedrich Fraundorfer. Relative Pose Estimation with a Single Affine Correspondence. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3069806.
 
-[2] Banglei Guan, Ji Zhao, Zhang Li, Fang Sun, and Friedrich Fraundorfer. [**Minimal Solutions for Relative Pose with a Single Affine Correspondence**](https://arxiv.org/pdf/1912.10776.pdf). IEEE Conference on Computer Vision and Pattern Recognition. 2020.
+[2] Banglei Guan, Ji Zhao, Zhang Li, Fang Sun, and Friedrich Fraundorfer. [Minimal Solutions for Relative Pose with a Single Affine Correspondence](https://arxiv.org/pdf/1912.10776.pdf). IEEE Conference on Computer Vision and Pattern Recognition. 2020.
 
 If you use this package in an academic work, please cite:
 
